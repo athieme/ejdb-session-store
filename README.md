@@ -1,0 +1,2 @@
+# EJDB-based session store
+
